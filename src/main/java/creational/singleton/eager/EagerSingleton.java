@@ -1,6 +1,6 @@
 package creational.singleton.eager;
 
-public class EagerSingleton {
+public final class EagerSingleton {
 	
 	private final static EagerSingleton instance = new EagerSingleton();
 	

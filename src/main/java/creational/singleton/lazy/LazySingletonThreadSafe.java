@@ -1,6 +1,6 @@
 package creational.singleton.lazy;
 
-public class LazySingletonThreadSafe {
+public final class LazySingletonThreadSafe {
 	
 	private static LazySingletonThreadSafe instance = null;
 	
