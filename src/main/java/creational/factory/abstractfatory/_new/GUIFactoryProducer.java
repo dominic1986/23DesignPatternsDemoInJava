@@ -1,4 +1,4 @@
-package creational.factory.abstractfatorynew;
+package creational.factory.abstractfatory._new;
 
 public abstract class GUIFactoryProducer {
 	public static IGUIFactory getIGUIFactory(OSEnum osEnum){
