@@ -1,4 +1,4 @@
-package creational.factory.abstractFactory;
+package creational.factory.abstractfactory;
 
 import creational.factory.common.FactoryEnum;
 
